@@ -1,2 +1,3 @@
-# applied-data-science-capstone
-applied-data-science-capstone (IBM)
+# Applied Data Science Capstone
+
+Applied Data Science Capstone with IBM on Coursera
